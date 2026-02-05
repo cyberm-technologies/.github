@@ -23,9 +23,8 @@ Our flagship adversary simulation platform provides enterprise-grade command and
 - Advanced payload generation and delivery mechanisms
 - Real-time operator collaboration and task management
 - Comprehensive logging for blue team training
-- Modular architecture with Hexlang scripting
+- Modular architecture with HexioScript and HexioExploit
 - Built-in OPSEC features and traffic blending
-- Covert side-channel communications (DNS, ICMP, custom protocols)
 
 **Links:**
 - [Hexio Framework Website](https://hexioframework.com)
